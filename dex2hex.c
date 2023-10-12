@@ -70,3 +70,5 @@ int main(int argc, char* argv[])
 	printf("CHECK: DEC=%d HEX=%.8X\n", a, a);
 	return 0;
 }
+
+// commit push 연습해보기
